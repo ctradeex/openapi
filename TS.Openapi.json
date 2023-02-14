@@ -2,7 +2,7 @@
   "openapi": "3.1.0",
   "info": {
     "title": "CATS2-OpenApi开放接口",
-    "description": "",
+    "description": "OpenApi开放接口",
     "version": "1.0.0"
   },
   "tags": [
